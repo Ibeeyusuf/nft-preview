@@ -8,6 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     font-size: 18px;
+    min-height: 100vh;
 }
 .container{
     margin:2rem ;
